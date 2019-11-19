@@ -140,3 +140,4 @@ bazel-genfiles/
 bazel-testlogs/
 bazel-out/
 
+vendor/
